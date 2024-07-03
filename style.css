@@ -5,3 +5,8 @@ h1{
 *{
     padding: 10px;
 }
+button{
+    background-position: center;
+    background-color: rgb(219, 235, 203);
+    /* padding: 5px; */
+}
