@@ -1,4 +1,4 @@
-/* Basic styles */
+Basic styles
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -16,7 +16,7 @@ main {
     padding: 1em;
 }
 
-/* Media query for mobile devices */
+Media query for mobile devices
 @media (max-width: 600px) {
     body {
         background-color: #f0f0f0;
@@ -39,7 +39,7 @@ main {
     }
 }
 
-/* Media query for tablets */
+Media query for tablets
 @media (min-width: 601px) and (max-width: 1200px) {
     body {
         background-color: #e0e0e0;
@@ -54,7 +54,7 @@ main {
     }
 }
 
-/* Media query for desktops */
+Media query for desktops
 @media (min-width: 1201px) {
     body {
         background-color: #fff;
