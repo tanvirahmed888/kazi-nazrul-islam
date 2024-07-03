@@ -1,6 +1,6 @@
 h1{
     /* background-color: rgb(219, 235, 203); */
-    text-align: center;
+    text-align:left;
 }
 *{
     padding: 10px;
@@ -58,4 +58,22 @@ button{
     background-size: 100%;
     color: white;
    
+}
+li{
+    background-color: #968e9a;
+    border: 5px solid rgb(210, 208, 207);
+    border-top: 5px;
+    border-left: 5px;
+    border-radius: 20px;
+    box-shadow: 30px;
+}
+.header{
+    height: 350px;
+    background-image: url(images/kazai-nazrul-islam\ 1.jpg);
+}
+.heads{
+    -webkit-text-fill-color: #edc0c9;
+    background-color: rgb(114, 109, 123);
+    height: fit-content;
+    text-decoration-color: #ED4264;
 }
