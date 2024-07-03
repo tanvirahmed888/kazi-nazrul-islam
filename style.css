@@ -1,7 +1,7 @@
 h1{
-    background-color: chartreuse;
+    background-color: rgb(219, 235, 203);
     text-align: center;
 }
-.photo{
-    text-size-adjust: 200px;
+*{
+    padding: 10px;
 }
